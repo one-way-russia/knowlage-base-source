@@ -21,4 +21,11 @@ sidebar_position: 2
 
 Если вы знакомы с git, то все куда проще. Вы можете форкнуть репозиторий с исходниками нашей базы знаний и добавить туда свою статью.
 
-Ссылка на источник будет здесь
+Ссылка репозиторй с исходниками: [тут](https://github.com/one-way-russia/knowlage-base-source)
+
+Далее необходимо сделать pull request в ветку `main` и дождаться одобрения.
+
+## Форматы и синтаксис:
+
+За основу платформы взят docusaurus. Quick start guide: [тут](https://docusaurus.io/docs/next/installation), там же документация по синтаксису. Не забудьте указать автора. 
+Формат [тут](https://docusaurus.io/docs/blog#global-authors).
